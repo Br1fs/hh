@@ -1,0 +1,24 @@
+.input{
+    height: 40px;
+    border-radius: 4px;
+    padding: 0 20px;
+    width: 100%;
+    border: 1px solid #1785e5;
+    outline: none;
+}
+
+.input:focus{
+    border: 1px solid #ddd;
+}
+
+.textarea{
+    height: 200px;
+    border-radius: 4px;
+    padding: 0 20px;
+    width: 100%;
+    border: 1px solid #ddd;
+    outline: none;
+    resize: none;
+    padding-top: 10px;
+}
+
